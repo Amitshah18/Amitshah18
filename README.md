@@ -59,7 +59,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-2025-blue?style=for-the-badge&logo=linkedin" />
-  <img src="https://img.shields.io/badge/Hackathon%20Winner-🏆-ff69b4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Built%20With-🔥%20Code%20%26%20Passion-critical?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=Amitshah18&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
